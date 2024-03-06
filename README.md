@@ -142,12 +142,13 @@ Python打包就是这样的，已经用upx压缩过了，嫌大你可以自己�
 ***
 > ### 我想问的问题你这里没有解答。怎样向你反馈问题？
 
-提issue，或者在discord频道交流。欢迎任何PR，也欢迎你自个儿 fork 之后发行（请遵守GNU GPL v3.0）。请注意：**本人后续维护此脚本的可能性几乎为零**。
+提issue，或者在discord频道/QQ群交流。欢迎任何PR，也欢迎你自个儿 fork 之后发行（请遵守GNU GPL v3.0）。请注意：**本人后续维护此脚本的可能性几乎为零**。
 
 # Python解释环境
 
 如果你想要自己用Python运行``autoRace.py``，以下是我环境的部分包：
 ```
+python = 3.10.13
 ddddocr = 1.4.8 # require onnxruntime
 global-hotkeys = 0.1.6
 keyboard = 0.13.5
