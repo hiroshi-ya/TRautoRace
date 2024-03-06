@@ -1,0 +1,14 @@
+cdkey     = 
+account   = 
+password  = 
+forward   = 
+backward  = 
+leftward  = 
+rightward = 
+jump      = 
+item2     = 
+item3     = 
+item      = 
+sprint    = 
+runtime   = 
+eventMap  = 
