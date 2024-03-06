@@ -6,4 +6,4 @@
 - 自动化跑图（极速拼图/超速隧道）
 - 房间长时间未开始时自动退出房间
 - 处于大厅时自动创建房间（超速隧道）
-- <a href="placeholder.com" target="_blank">Opens in new tab</a>
+- <a href="https://placeholder.com/" target="_blank">Opens in new tab</a>
