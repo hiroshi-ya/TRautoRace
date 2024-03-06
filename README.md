@@ -161,4 +161,6 @@ numpy = 1.26.0
 pillow = 9.5.0 # don't use later versions
 pyinstaller = 6.0.0 # for packing exe
 ```
-打包使用 [pyinstaller](https://pypi.org/project/pyinstaller/) 、[upx](https://upx.github.io/) 以及 [Enigma Virtual Box](https://enigmaprotector.com/en/aboutvb.html)。
+确保``scr``文件夹和``autoRace.py``处于一个目录下。
+
+打包使用 [pyinstaller](https://pypi.org/project/pyinstaller/) 、[upx](https://upx.github.io/) 以及 [Enigma Virtual Box](https://enigmaprotector.com/en/aboutvb.html) 。
